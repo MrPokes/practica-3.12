@@ -1,0 +1,15 @@
+table {
+border: red 1px solid;
+}
+
+table.jordan {
+    border: rgb(81, 255, 0) 1px solid;
+    }
+
+tg {
+    border: rgb(0, 38, 255) 3px solid;
+    }
+
+td.td2 {
+    border: rgb(0, 255, 55) 1px solid;
+    }
